@@ -3,6 +3,7 @@
   <h1 align="center">Next.js AI Chatbot</h1>
 </a>
 
+
 <p align="center">
   An open-source AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Vercel KV.
 </p>
